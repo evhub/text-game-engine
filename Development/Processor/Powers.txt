@@ -1,0 +1,5 @@
+# This is a test file! Notice: Comment starts with # -- as in FIRST THING ON THE LINE
+# Format: name,damage,mana,effect,effect,effect,...
+lightning bolt,10,5
+fire,1,1,burn=1,cooldown=1
+passive thang,0,1,freeze=2

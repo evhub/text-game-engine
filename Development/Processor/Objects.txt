@@ -1,0 +1,21 @@
+# This is a test file! Notice: Comment starts with # -- as in FIRST THING ON THE LINE
+# Format: name,type,attribute=value,attribute=value,attribute=value,...
+sign,none,text=hello
+zombie,agg,damage=1,health=3,drop=zombie flesh,text=brains
+person,pass,damage=1,health=5,text=hello,drop=human flesh
+bolt book,item,power=lightning bolt
+flame book,item,power=fire
+warp,none,req=key,loc=10;10
+key,item
+warp back,none,loc=1;0
+broom,item,damage=5,not=class book 1
+passive book,item,power=passive thang
+health book,item,addhealth=1
+class book 1,item,not=broom,addmana=1
+class book 2,item,reqflag=armory,notflag=magic
+box,item,slot=head
+chestplate,item,addhealth=1,slot=chest
+health fountain,none,heal=10
+food,item,heal=2
+human flesh,item,heal=1
+zombie flesh,item,heal=1

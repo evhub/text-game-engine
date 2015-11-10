@@ -1,0 +1,14 @@
+# Format: name,maxhealth,attack,mana,flag,flag,flag,...
+
+The War Veteran,50,8,0,disposable
+The Black Guy,40,10,0,disposable
+The Police Chief,80,2,0
+The Charismatic Clown,85,1,0,disposable
+The Redneck,45,9,0
+The Canadian,40,2,0,disposable,eh
+The Girl,70,4,0
+The Protagonist,65,5,0,
+The Loser,75,3,0
+The Techie,50,2,0,tech
+The Reckless Asshole,90,0,0
+The Mr. Derp,60,7,0

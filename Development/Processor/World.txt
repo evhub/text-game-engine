@@ -1,0 +1,8 @@
+# This is a test file! Notice: Comment starts with # -- as in FIRST THING ON THE LINE
+# Format: x,y,name,object,object,object,...
+0,0,Inn Room,sign,person,box
+0,1,Basement,zombie,bolt book,zombie,box,zombie
+1,0,Wizard's Room,warp,class book 1,class book 2
+-1,0,Front Desk,key,food,health fountain,flame book
+15,15,Limbo,warp back,broom,passive book
+0,-1,Other Room,health book,chestplate

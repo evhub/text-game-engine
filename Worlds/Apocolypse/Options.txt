@@ -1,0 +1,5 @@
+# Format: option=value,value,value,...
+spawnlist=
+commandlist=north,south,east,west,drop,take,equip,stats,armor,inventory,health,read,open,talk,eat,delete,powers,unequip,give to,look,loot,inspect,check,abandon
+stack=true
+location=1,0

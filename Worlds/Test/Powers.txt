@@ -1,0 +1,11 @@
+# Format: name,damage,mana,effect,effect,effect,...
+sacrificial strike,3,1,sacrifice=3
+freeze,2,3,freeze=1
+shock,4,4
+prayer,1,2,heal=2
+holy light,2,3,
+Tyet Prayer,1,4,heal=3
+Entomb,5,3,freeze=1
+Firefall,15,9005,
+Dark Banishment,10,9005,necrosis=5
+Great Whacking,5,1,freeze=1

@@ -1,0 +1,24 @@
+# Format: name,type,attribute=value,attribute=value,attribute=value,...
+Zombie,agg,damage=1,health=5
+Sacrificial Knife,item,power=sacrificial strike,damage=2,addmana=1,reqflag=Osiris,notflag=nopickup
+Elementbook,item,power=freeze,addmana=3,reqflag=elem,notflag=nopickup
+Book of Isis,item,power=holy light;prayer,addmana=2,reqflag=Isis,notflag=nopickup
+Storm Amulet,item,power=shock,addmana=1,reqflag=elem,notflag=nopickup
+Mop,item,damage=1,notflag=nopickup
+Tyet Amulet,item,power=Tyet Prayer,addmana=1,reqflag=Isis,notflag=nopickup
+Djed Amulet,item,power=Entomb,addmana=1,reqflag=Osiris,notflag=nopickup
+Boots,item,addhealth=1,slot=chest,notflag=nopickup
+Coat,item,addhealth=1,slot=feet,notflag=nopickup
+Draug,agg,damage=2,health=10
+Bread,item,heal=2
+z0m813 0v3rl0rd,agg,damage=3,health=12,drop=Crook and Flail;Tunic of Holy Protection;Sun Scepter
+Crook and Flail,item,damage=5,power=Dark Banishment,addmana=2,reqflag=Osiris,notflag=nopickup
+Tunic of Holy Protection,item,addhealth=15,slot=legs,reqflag=Isis,notflag=nopickup
+Sun Scepter,item,addmana=9001,damage=5,power=Firefall,notflag=nopickup
+Overstocked Food,none,heal=10
+Severed Feet,item,heal=3,reqflag=Osiris,notflag=nopickup
+Wine,item,heal=2,damage=2,power=Great Whacking,notflag=nopickup
+Toilet,none,loc=9001;9001,req=Plunger
+Dark Portal,none,loc=2;1
+Plunger,item,addhealth=1,slot=head,notflag=nopickup
+Box,item,slot=head,notflag=nopickup,addmana=1,addhealth=1

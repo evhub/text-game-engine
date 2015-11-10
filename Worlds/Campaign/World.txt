@@ -1,0 +1,124 @@
+# Format: x,y,name,object,object,object,...
+0,0,Inn Room,Bed,Food,Butter Knife,Bread,Bread,Butter
+0,1,Front Desk,Clerk,Fancy Belt,Milk Bottle,Milk Bottle,Milk Bottle
+1,1,Main Street,Dumpster,Bitter Man
+1,2,Downtown,Sign
+1,3,Train Station,Train(Red Mesa),Train(Soviet Russia)
+2,0,Weapons Store,Weapons Dealer,Bow,Sword,Wand
+2,1,LEGITIMATE ESTABLISHMENT,Moonshine,Moonshine,Moonshine,Moonshine,Moonshine,LEGITIMATE Owner,Rotting Corpse,Burnt Corpse,Homeless Person
+2,2,Seafood Shack:Almost free of E.coli and Salmonella!,Lobster Mang Bodyguard,Fish Mang,Fish Mang,Giant Oyster Mang,Mermaid Scale
+2,3,Seafood Fightclub,Oyster Meister,Crab Mang,Scallop Mang
+2,4,Back Alley,Door with Pentagram,Foreboding Sign,Shadowed Figure
+3,1,Mafia Dojo,Mafia Boss,Mafia Member,Mafia Member,Moonshine,Moonshine,Moonshine,Cocaine
+4,1,Alchemical Supplies,Alchemaster,Student Alchemist,Chest,Bubbling Still,Showcase,Manacoin,Healthcoin,Cookbook
+3,3,Beach Front,Scallop Mang
+3,2,Beach Front,Crab Mang,Crab Mang
+5,1,Quarantine Wall,Sealed Metal Gate,Hazmat Officer
+29,27,Desert Hut,Butter,Butter,Wild Rajeev
+29,31,Red Mesa Waiting Room,Old Lady,Rotting Corpse,Rotting Corpse,Back Hall Door
+29,33,Red Mesa Hall,HeadCrab,Psychotic Physicist
+29,34,Red Mesa Hall,Generator Room Door,Healthcoin
+29,36,Red Mesa,Farcically Entitled Generator,Old Lady,Old Lady,Old Lady,Old Lady,Old Lady,Old Lady,Old Lady,Old Lady,Old Lady,Old Lady,Old Lady,Old Lady,Old Lady,Old Lady,Old Lady,Old Lady,Old Lady,Old Lady,Old Lady,Farcically Entitled Generator,Scary Door
+30,27,Red Mesa Desert
+30,28,Red Mesa Desert
+30,29,Red Mesa Desert Station,Train(Ishikawa)
+30,30,Red Mesa Asylum Entrance,Rotting Corpse
+30,31,Red Mesa Reception Desk,Burnt Corpse,Rotting Corpse
+31,31,Red Mesa Storage Closet,Rotting Corpse,Crowbar,Mop,Bucket,Back Hall Key
+3,0,Derp Store,Mofn,Aise Krom,Onyon Reng,Mork Bootl,Aspergers,Mackdombles Derbakerta Pandas wib Cheengs,Crickem Nigfops,Taarngrowoben,Sharted Barf,Blanaba amd Gurp Smuthee,Blanaba Splat,Mershed Perderder
+4,0,Huge Building Entrance,Revolving Door(Huge Building)
+777,777,Huge Building Interior,Revolving Door(Ishikawa),Elevator(Up)
+999,999,Huge Building Top Floor,Elevator(Down),Glowing White Door
+9999,9999,Top of A Cloud,Cloud Spirit,Elevator(Heaven),Cloud
+7777,7777,Gates of Heaven,Elevator(Cloud Room),Cloud
+7777,7778,Hallway of Clouds,Angel,Cloud
+7777,7779,Hallway of Clouds,Angel,Cloud
+7777,7780,Center of Heaven,Angel,Isis,Fountain of Youth
+7778,7780,Angel Barracks,High Angel,Holy Shotgun
+7779,7780,Halo Storage,Magicians Halo,Warriors Halo,Rangers Halo
+7776,7780,Messiah Center,Angel Clerk
+7775,7780,Messiah Center,Moses
+7775,7781,Messiah Center,Jesus
+7775,7779,Messiah Center,Mohammad
+7774,7780,Messiah Center,Flying Spaghetti Monster
+7777,7781,Great Hallway,Cloud,Angel
+7777,7782,Great Hallway,Cloud,Angel
+7778,7782,Santas Shack,Santas Bag,Milk Bottle,Milk Bottle
+7777,7783,Great Hallway,Cloud,Angel
+7777,7784,Great Hallway,Cloud,Angel
+7777,7785,Throne of God,God,Door of God
+888,888,Holy Entrance Area,Holy Door
+888,889,Holy Living Room,Holy Coffee Table,Dictatorship for Dummies (Deity Edition)
+889,889,Holy Bathroom,Holy Plunger,Holy Shit
+887,889,Holy Kitchen,Holy Guacamole
+886,889,Holy Dining Room,Holy Plate,Holy Fork
+888,890,Holy Bedroom,Bed,Dirty Magazines
+888,891,Holy Closet,Rapture-Matic 3000
+400,400,Land of Soviet Russia,Stack of Blocks,Man,Potato,Bread,Vodka
+400,401,Soviet Russian Train Station,Road to Siberia,Train(Ishikawa),Sad Old Peasant Woman
+404,404,Land of Siberia,Wasteland of Ice,Icy Sign,Yousei,Ice Golem
+410,410,Icy Wasteland,Ice Troll
+411,410,Icy Wasteland
+413,410,Icy Wasteland
+411,411,Icy Wasteland
+410,411,Icy Wasteland
+412,410,Icy Wasteland
+412,412,Icy Wasteland,Frozen Portal of Blocks
+413,411,Icy Wasteland,Ice Troll
+413,412,Icy Wasteland
+600,599,Dark Wood of Error,Virgil
+600,600,Shrouded Hollow,Revenant Shade
+600,601,Vestibule of Hell,Foreboding Gate,Box of Abandoned Hopes
+600,602,Bank of Acheron,Charon,Boat
+601,603,Limbo,Dead Baby,group of Poets,Minos
+602,604,Room of Judgement,Osiris,Scale,Feather of Maat
+601,605,Second Circle (Carnal)
+600,605,Second Circle
+600,606,Third Circle (Gluttony),Cerberus
+600,607,Third Circle
+601,607,Fourth Circle (Greed)
+601,608,Fourth Circle
+601,609,Fifth Circle (Anger)
+600,609,River Styx,Phylegyas,Unstable Boat
+600,610,Gates of Dis,Fallen Angel
+600,611,Sixth Circle (Heresy)
+600,612,Lava Waterfall (Seventh Circle/Violence),Derpy the Flying Squid
+600,613,River of Blood,Chiron
+600,614,Wood of Suicides
+601,614,Wood of Suicides
+602,614,Burning Plain,Lava Wraith
+603,614,Burning Plain,Lava Wraith
+604,614,Burning Plain,Lava Wraith
+605,614,Giant Cliff (Eighth Circle)
+605,615,Panderers and Seducers
+605,616,Flatterers
+605,617,Simoniacs
+605,618,Fortune Tellers Diviners and Astrologers
+605,619,Grafters
+605,620,Hypocrites
+605,621,Thieves and Evil Counselors
+605,622,Sowers of Discord,Sword Demon
+605,623,Falsifiers
+605,624,Ninth Circle (Treachery)
+605,625,Hallway of Ice,Fallen Angel
+604,625,Heart Storage Room,Warriors Heart,Magicians Heart,Rangers Heart
+606,625,Hallway of Ice,Fallen Angel
+606,626,Depths of Hell,Lucifer,Icy Pentagram Tablet
+602,613,Room of Fire,Crimson Stone,Red Guardian
+602,615,Room of Ice,Cobalt Stone,Blue Guardian
+6969,6969,Inside of Dumpster,Mound of Garbage,Homeless Pants,Homeless Shirt,Homeless Cap,Homeless Socks,Dead Baby,Jarate,Dumpster Exit
+6970,6971,Under Mound of Garbage,Manacoin,Manacoin,Bread,Bloodstained Key,Dumpster Exit
+7,1,Main Street
+8,1,Main Street,Zombie
+8,0,Abandoned House,Zombie,Torn Fence
+9,1,Main Street
+9,2,Abandoned House,Zombie
+10,1,Main Street,Hazmat Zombie
+11,1,Main Street,Zombie Cop
+12,1,Main Street
+13,1,Main Street,Corpulent Zombie
+13,2,Old Mansion
+13,3,Mansion Atrium,Corpulent Zombie
+14,3,Mansion Library,Amulet of Sekhemet
+13,4,Mansion Staircase,Corpulent Zombie
+13,5,Mansion Office,Necromancer

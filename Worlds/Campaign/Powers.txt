@@ -1,0 +1,50 @@
+# Format: name,damage,mana,effect,effect,effect,...
+Alchemical Maelstrom,40,100,freeze=4,burn=4,cooldown=8
+Holy Shot,60,0,freeze=1,cooldown=6
+Crowbar Bash,55,0,freeze=1,cooldown=5
+Styx Shot,66,66,hurt=66,burn=66,necrosis=66,cooldown=16
+Plague,77,77,burn=77,hurt=77,necrosis=77,cooldown=17
+Sacrificial Strike,66,66,sacrifice=666,burn=6,cooldown=6
+Prayer of Isis,66,66,heal=66,burn=6,cooldown=6
+Fork You,10,50,hurt=10
+Dark Shroud,10,60,burn=3,cooldown=5
+Plague,0,60,burn=5,hurt=5
+Magic Blast,55,55,hurt=15,burn=1
+Magic Sword,55,0,freeze=1,cooldown=5
+Magic Bullet,55,0,burn=1,cooldown=1
+Dark Strike,66,0,freeze=1,hurt=10,cooldown=5
+Black Blast,66,66,hurt=25,burn=1
+Shadow Shot,66,0,burn=1,hurt=10,cooldown=1
+Pasta Tentacles,55,0,freeze=5,cooldown=55
+Eat Pasta,0,0,heal=55,cooldown=1
+Holy Sandstorm,55,0,burn=5,freeze=5,hurt=55,cooldown=5
+Drink Wine,0,0,heal=55,cooldown=1
+Splash Wine,55,0,burn=55,cooldown=5
+Dark Power Shot,66,10,freeze=3,cooldown=6
+Starry Blast,11,0,freeze=1,cooldown=2
+Fire Flask,10,10,burn=2,cooldown=1
+Explosive Flask,25,10,burn=1
+Acid Flask,15,15,burn=5,cooldown=2
+Healing Flask,0,20,heal=30,cooldown=3
+Hellfire Nova,66,666,burn=66,cooldown=1
+Dark Nova,66,666,freeze=6,cooldown=6,hurt=66
+Infinite Darkness,99,666,hurt=99,necrosis=166,cooldown=1
+Got Meds?,0,0,freeze=55,cooldown=77
+Crimson Flare,66,100,burn=10,cooldown=6
+Cobalt Flare,66,100,freeze=2,cooldown=6
+Magical Wankerchief,15,10,burn=0
+I DO COCAINE,0,0,freeze=1
+Psychic Leech,10,50,heal=10,burn=5,cooldown=5
+VileBlast,50,30,freeze=2,burn=6,cooldown=8
+Give LSD,0,0,freeze=1
+Seawater-splosion,20,12,cooldown=2
+Baka Blizzard,9,9,freeze=9,cooldown=19,burn=0
+Flash Freeze,25,30,freeze=3,cooldown=6,burn=0
+BUTTERBLAST!!!,20,25,freeze=1,cooldown=3
+Shadow Rend,30,20,freeze=3,burn=3,cooldown=5
+Black Frostfire,66,666,freeze=6,cooldown=10
+White Flame,99,999,burn=9,cooldown=10
+Magic Beam,25,0,burn=5
+Savage Strike,40,0,cooldown=5
+Godly Blast,111,1111,sacrifice=1111,burn=11,cooldown=1
+Violent Strike,55,0,sacrifice=555,burn=10,cooldown=10

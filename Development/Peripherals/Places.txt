@@ -1,0 +1,71 @@
+/ 100
+0,0,Land
+
+/ 10
+0,0,Lake
+1,0,Lake
+0,1,Lake
+1,1,Lake
+
+/ 2
+0,0,Lake
+1,0,Lake
+0,1,Lake
+1,1,Lake
+2,0,Lake
+0,2,Lake
+2,1,Lake
+1,2,Lake
+2,2,Lake
+
+/ 10
+0,0,River
+0,1,River
+0,2,River
+
+/ 10
+0,0,River
+1,0,River
+2,0,River
+
+/ 8
+0,0,River
+0,1,River
+0,2,River
+0,3,River
+
+/ 8
+0,0,River
+1,0,River
+2,0,River
+3,0,River
+
+/ 6
+0,0,River
+0,1,River
+0,2,River
+0,3,River
+0,4,River
+
+/ 6
+0,0,River
+1,0,River
+2,0,River
+3,0,River
+4,0,River
+
+/ 4
+0,0,River
+0,1,River
+0,2,River
+0,3,River
+0,4,River
+0,5,River
+
+/ 4
+0,0,River
+1,0,River
+2,0,River
+3,0,River
+4,0,River
+5,0,River

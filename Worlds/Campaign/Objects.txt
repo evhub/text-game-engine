@@ -1,0 +1,244 @@
+# Format: name,type,attribute=value,attribute=value,attribute=value,...
+
+#Coin Items:
+Healthcoin,item,addhealth=1
+Manacoin,item,addmana=1
+
+#Doors/Trains:
+Frozen Portal of Blocks,none,loc=400;400
+Revolving Door(Huge Building),none,loc=777;777
+Revolving Door(Ishikawa),none,loc=4;0
+Elevator(Up),none,loc=999;999
+Elevator(Down),none,loc=777;777
+Glowing White Door,none,reqflag=Holy,loc=9999;9999
+Boat,none,req=Oar of Power,loc=601;603
+Elevator(Heaven),none,loc=7777;7777
+Elevator(Cloud Room),none,loc=9999;9999
+Crimson Stone,none
+Cobalt Stone,none
+Back Hall Door,none,req=Back Hall Key,loc=29;33
+Door with Pentagram,none,loc=600;599,req=Bloodstained Key
+Dumpster Exit,none,loc=1;1
+Dumpster,none,loc=6969;6969
+Generator Room Door,none,req=Generator Key,loc=29;36
+Mound of Garbage,none,loc=6970;6971
+Road to Siberia,none,loc=404;404
+Scary Door,none,req=Scary Key,loc=30;30
+Train(Ishikawa),none,loc=1;3
+Train(Red Mesa),none,loc=30;29
+Train(Soviet Russia),none,loc=400;401
+Unstable Boat,none,loc=600;610
+
+#Keys/Related Things:
+Back Hall Key,item
+Bloodstained Key,item,reqflag=Unholy
+Generator Key,item
+Scary Key,item
+
+#Equip Items:
+Fancy Belt,item,reqflag=default,addhealth=110,addmana=15,addattack=14
+Alchemasters Backpack,item,addmana=40,slot=chest,power=Alchemical Maelstrom,reqflag=Alchemy
+Fedora,item,addhealth=10,addmana=10,slot=head
+Homeless Cap,item,addhealth=10,slot=head
+Homeless Pants,item,addhealth=10,slot=legs
+Homeless Shirt,item,addhealth=10,slot=chest
+Homeless Socks,item,addhealth=10,slot=feet,damage=5
+Smelly Unwashed Crusty Sticky Dripping Splooge-Drenched Homeless Pants,item,addhealth=25,slot=legs,text=Various fluid stains-- some looking unpleasantly...recent. Wait...is that blood!?
+Crab-Hat,item,addhealth=20,addattack=10,slot=head,reqflag=Freeman
+Fish Pants,item,slot=legs,addhealth=12,text=They are pants. Made of fish.
+
+#Things with Spells:
+Bubbling Still,none
+Cookbook,item,power=Fire Flask;Explosive Flask;Acid Flask;Healing Flask,reqflag=Alchemy
+Chest,none
+Cocaine,item,power=I DO COCAINE,heal=1
+LSD,item,power=Give LSD,heal=55
+Shadow Heart,item,power=Shadow Rend,slot=chest
+Cobalt Tome,item,power=Cobalt Flare
+Icy Tome,item,power=Flash Freeze
+Crimson Tome,item,power=Crimson Flare
+Darkbook,item,power=Psychic Leech,addmana=25,reqflag=Unholy
+Mermaid Scale,item,power=Seawater-splosion,text=A mermaid scale? Wonder where this came from?
+Wand,item,power=Magic Beam,reqflag=Magician
+
+#Other Random Stuff:
+Torn Fence,none,loc=4;0
+Icy Troll Meat,item,heal=9
+Lava Essence,item,throw=66
+Unholy Blood Sword,item,damage=166,addattack=66
+Nova Heart,item,power=Hellfire Nova;Dark Nova,slot=chest,addmana=666
+Left Eye of Lucifer,item,power=Infinite Darkness,addhealth=66,addmana=66
+Delicious Crab Meat,item,heal=40
+Staff of Osiris,item,damage=66,power=Sacrificial Strike,reqflag=Osiris
+Bow,item,damage=25,reqflag=Ranged
+Sword,item,damage=15,reqflag=Heavy,power=Savage Strike
+9 medal,item,text=Theres something inscribed on the back:Eye am the strongest!,power=Baka Blizzard
+Aise Krom,item,heal=8
+Aspergers,item,heal=6
+Bed,none
+Brain of Power,item,power=Got Meds?
+Brain Meds,item,addmana=20,addhealth=20
+Blanaba amd Gurp Smuthee,item,heal=14
+Blanaba Splat,item,heal=17
+Bread,item,heal=20,text=Friggin Friggbiscuit Brand. Marik Approves!
+Bucket,item,damage=1
+Burnt Corpse,item,heal=5
+Butter,item,heal=10
+Butter Blaster,item,power=BUTTERBLAST!!!
+Butter Knife,item,damage=10,text=Its dull. VERY dull.
+Can of Caviar,item,heal=10,text=Full of sturgeoney goodness!
+Inconsiderate Blaster,item,power=VileBlast,damage=30
+Crowbar,item,damage=55,power=Crowbar Bash,reqflag=Freeman
+Crickem Nigfops,item,heal=15
+Dead Baby,item,heal=10,text=Are you seriously contemplating eating this thing? Its a friggin dead baby for crying out loud. Furthermore why are you *reading* a dead baby? You sick bastard.
+Food,none,heal=50
+Fried Pigs Feet,item,heal=10
+Icy Sign,none,text=Welcome to Siberia. Population: You.
+Jarate,item,throw=50
+Lobster Claws,item,damage=15
+Mackdombles Derbakerta Pandas wib Cheengs,none,heal=20
+Mershed Perderder,item,heal=14
+Milk Bottle,item,heal=10,text=Milk. Delicious Milk.
+Mofn,item,heal=7
+Moonshine,item,heal=1
+Mop,item,damage=5
+Mork Bootl,item,heal=10,text=Mork. Derlercshusus Mork.
+Onyon Reng,item,heal=3
+Pearl,item,addmana=2
+Pork Chitlins,item,heal=20
+Potato,item,heal=20
+Rotting Corpse,item,heal=20
+Scallops,item,heal=25
+Foreboding Sign,none,text=Abandon Hope All Ye Who Enter Here!
+Showcase,none,text=Displayed here are pieces of the two legendary jewels of health and mana. When the jewels were shattered-- they split into shards-- which we now refer to as coins
+Sharted Barf,item,heal=12
+Sign,none,text=North:Train Station
+Stack of Blocks,none,text=Blocks that require arranging
+Taarngrowoben,item,heal=5
+Tommy Gun,item,damage=20
+Pistol,item,damage=15
+Vodka,item,heal=10
+Wankerchief,item,damage=1,power=Magical Wankerchief,text=This is a wankerchief. Guess what its for?
+Wasteland of Ice,none,loc=410;411
+Vial of Herpagonasyphilaids,item,throw=666,text=Oh god. Poor Derpy was infected... by WHOM?! It could only have been...the dreaded duck.
+White Orb,item,text=White flames burn blindingly inside this orb. It is searing to the touch.,power=White Flame,reqflag=Holy
+Black Crystal,item,text=Shadows dance along the frost covered surface of this crystal. It is icy cold to the touch.,power=Black Frostfire,reqflag=Unholy
+Warriors Heart,item,reqflag=Heavy,slot=chest,power=Dark Strike
+Magicians Heart,item,reqflag=Magician,slot=chest,power=Black Blast
+Rangers Heart,item,reqflag=Ranged,slot=chest,power=Shadow Shot
+Oar of Power,item,power=Styx Shot
+Sword of Violence,item,damage=55,power=Violent Strike
+Bow of Heroes,item,damage=55,power=Dark Power Shot
+Blood Collar,item,slot=head,addhealth=100,addattack=100
+Foreboding Gate,none,text=I am the way into a city of woe. I am the way to a forsaken people. I am the way into eternal sorrow. Sacred justice moved my architect. I was raised here by divine omnipotence primordial love and ultimate intellect. Only those elements time cannot wear were made before me and beyond time I stand. Abandon all hope ye who enter here. 
+Box of Abandoned Hopes,item,text=Hope that people have abandoned in fear of the gate. Could be useful-- never know when you might need some hope!
+Styx Essence,item,throw=555
+Minos,none,loc=602;604,text=Come to me and I shall send you into the depths of fire.
+Icy Pentagram Tablet,item,loc=2;4
+Scale,none,req=Feather of Maat,loc=601;605
+Feather of Maat,item,addmana=5
+
+#Passive Mobs:
+Cerberus,pass,text=Grrrrrrrrr...,damage=55,health=555,drop=Blood Collar
+Chiron,pass,text=Once I was a mentor to heroes-- now I just patrol this river.,damage=55,health=555,drop=Bow of Heroes
+Sword Demon,pass,text=I have no business with the living.,damage=55,health=555,drop=Sword of Violence
+Charon,pass,text=Im tired of rowing. Row yourself.,health=555,damage=55,drop=Oar of Power
+Osiris,pass,damage=66,health=666,drop=Staff of Osiris,text=I cannot judge the living.
+Weapons Dealer,pass,text=Feel free to look around. If you take anything Ill know. Well-- maybe Ill know. I am blind.,damage=5,health=100,drop=Pistol
+Alchemaster,pass,text=Welcome to my Supply Store! Can I help you?,damage=35,health=125,drop=Alchemasters Backpack
+Clerk,pass,text=Hello--Welcome to Ishikawa!,damage=10,health=100
+Fish Mang,pass,text=Blagagablarg,health=30,damage=5,drop=Can of Caviar;Fish Pants
+Ice Golem,pass,text=I am the guardian of a powerful spell tome. You must defeat me if you wish to possess this tome and its powers.,health=100,damage=7,drop=Icy Tome
+Red Guardian,pass,text=You wish to obtain the power of the Crimson Tome? Very well-- we shall do battle.,health=100,damage=10,drop=Crimson Tome
+Blue Guardian,pass,text=You wish to obtain the power of the Cobalt Tome? Very well-- we shall do battle.,health=120,damage=7,drop=Cobalt Tome
+Giant Oyster Mang,pass,health=30,damage=20,drop=Pearl
+Homeless Person,pass,damage=5,health=100,drop=Smelly Unwashed Crusty Sticky Dripping Splooge-Drenched Homeless Pants;Wankerchief
+LEGITIMATE Owner,pass,text=Fuck-- well-- goddamn cops got killed by Mafia guys-- so I need to take care of these bodies first. Help yourself to some Moonshine.,damage=25,health=100,drop=Moonshine;Moonshine
+Mafia Boss,pass,health=150,damage=35,drop=Tommy Gun;Fedora
+Mafia Member,pass,health=100,damage=25,drop=Tommy Gun
+Man,pass,damage=50,health=500,text=To Moscow I came seeking fortune but theyre making me work til Im dead. The bourgeoisie have it so easy. The Tsars putting gold on his bread. The people of Moscow are hungry. But think what a feast there could be if we could create a socialist state that cared for the people like me. I am the man who arranges the blocks that descend upon me from up above. They come down and I spin them around til they fit in the ground like hand in glove. Sometimes it seems that to move blocks is fine and the lines will be formed as they fall -then I see that I have misjudged it! I should not have nudged it after all. Can I have a long one please? Why must these infernal blocks tease? I am the man who arranges the blocks that continue to fall from up above. Come Muscovite! Let the workers unite! A collective regime of peace and love. I work so hard in arranging the blocks but the landlord and taxman bleed me dry.But the workers will rise! We will not compromise for we know that the old regime must die. Long live Lenin-- kill the tsar! We salute the sickle and star! I am the man who arranges the blocks that continue to fall from up above. The food on your plate now belongs to the state- a collective regime of peace and love. I have no choice in arranging the blocks. Under Bolshevik rule-- what they say goes. The rule of the game is we all are the same. And my blocks must create unbroken rows. Long live Stalin! He loves you! Sing these words-- or you know what hell do... I am the man who arranges the blocks. That are made by the men in Kazakhstan. They come two weeks late and they dont tessellate but were working to Stalins five year plan. I am the man who arranges the tanks that will make all the Nazis keep away. The Fuhrer is dead-- and Europe is Red! Let us point all our guns at the USA. We shall live forever more! We can start a nuclear war! I am the man who arranges the blocks that are building a highly secret base. Hip hip hurrah for the USSR! We are sending our men to outer space. I work so hard in arranging the blocks but each night I go home to my wife in tears-- whats the point of it all-- when youre building a wall and in front of your eyes it disappears? Pointless work for pointless pay-- this is one game I shall not play! I am the man who arranges the blocks! But tomorrow I think Ill stay in bed. The winter is cold-- Ive got plenty of gold. And Im standing in line for a loaf of bread. Maybe wed be better off if we brought down Gorbachev. I am the man who arranges the blocks That continue to fall from up above. The markets are free! So much money for me! Tell me-- why should I care for peace and love? The markets are free! So much money for me! Tell me-- why should I care for peace and love? Peace and love-- peace and love! And now the wall is down-- the Marxists frown-- theres foreign shops all over town. When in Red Square-- well dont despair--theres Levis and McDonalds there. The US gave us crystal meth and Yeltsin drank himself to death but now that Putins put the boot in-- wholl get in our way? So we reject free enterprise and once again the left will rise. Prepare the flags to be unfurled for were seceding from the world! We shall regain the Georgian soil! We shall obtain the Arctic oil! We shall arrange the blocks and toil forever and a day!
+Old Lady,pass,text=Ive been waiting for 37 and a half years... I still havent gotten my brain medication...,damage=99,health=9999,drop=Brain of Power;Fried Pigs Feet;Pork Chitlins,req=Brain of God
+Sad Old Peasant Woman,pass,health=10,damage=1,drop=Bread;Vodka,text=Game over.
+Student Alchemist,pass,text=Hello?,damage=10,health=50
+Wild Rajeev,pass,damage=5,health=500,drop=Butter Blaster;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter;Butter,text=I liek butter. I hope you liek butter too... or else it will be a dark day... a dark buttery day...
+Derpy the Flying Squid,pass,damage=69,health=169,drop=Vial of Herpagonasyphilaids,text=i am der guadrian of der sevrenth cricel. faer mey rath. taek car lest i infect u--folish mrtal
+Virgil,pass,text=I was supposed to be your guide--however--Im not feeling up to it. Youll have to do this by yourself. Good luck,health=1000,damage=1000
+group of Poets,pass,health=555,damage=55,text=We are here because we never learned of God and apparently that automatically means hell. Were pretty sure hes completely incompetent or incredibly sadistic. The only thing were missing is some hope-- do you happen to have any? We can give you some food to help on your long journey,req=Box of Abandoned Hopes,drop=Bread;Bread;Bread;Potato
+Phylegyas,pass,health=500,damage=15,text=I dont take the living across-- theyre too heavy for my boat. Go over there yourself!,drop=Styx Essence
+
+#Aggressive Mobs:
+Lava Wraith,agg,health=111,damage=11,drop=Lava Essence
+Bitter Man,agg,text=SACRIFICE ME TO YOUR DARK GODS,damage=0,health=10,drop=Darkbook
+Lucifer,agg,damage=66,health=666,drop=Unholy Blood Sword;Left Eye of Lucifer;Nova Heart,text=And now you die mortal.
+Shadowed Figure,agg,text=I am torn between two powerful magics- each warring for dominance inside my very soul. Free me. Free me of my terrible burden.,health=500,damage=15,drop=White Orb;Black Crystal
+Yousei,agg,damage=9,health=29,drop=9 medal
+Ice Troll,agg,damage=10,health=40,drop=Icy Troll Meat
+HeadCrab,agg,damage=5,health=25,drop=Crab-Hat
+Farcically Entitled Generator,agg,damage=10,health=200,drop=Scary Key;Inconsiderate Blaster;Brain Meds
+Revenant Shade,agg,damage=15,health=120,drop=Shadow Heart
+Psychotic Physicist,agg,damage=8,health=60,drop=Generator Key
+Lobster Mang Bodyguard,agg,text=CLICK! Click click click! Cliiiiiiiiick!,health=25,damage=5,drop=Lobster Claws
+Crab Mang,agg,text=Click? Click. Click... CLICK CLICK CLIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIICK!!!,health=25,damage=5,drop=Delicious Crab Meat
+Scallop Mang,agg,text=WHACHOO WAN? Whuzzat? You want my delicious face? HELL NO!,health=50,damage=3,drop=Scallops
+Oyster Meister,agg,text=YOU...You try to eat my face...BRING ME THAT ASS,health=40,damage=5
+Fallen Angel,agg,damage=16,health=166,text=Die mortal! You do not belong here,drop=Razor Halo;Razor Halo
+
+#Heaven:
+Rapture-Matic 3000,item,throw=999
+Holy Guacamole,item,heal=100
+Holy Shit,item,throw=200,req=Holy Plunger
+Holy Plunger,item,damage=20
+Dirty Magazines,item,text=Nice try
+Holy Hand Grenade,item,throw=9999
+God,pass,damage=77,health=777,drop=Brain of God;Holy Hand Grenade;Holy Halo;Staff of God,text=Deeeeerrrrrrrrrppppppppppppppppp..........
+Holy Door,none,loc=7777;7785
+Door of God,none,loc=888;888
+Santas Bag,item,heal=666,reqflag=Santa
+Magicians Halo,item,reqflag=Magician,power=Magic Blast,slot=head
+Warriors Halo,item,reqflag=Heavy,power=Magic Sword,slot=head
+Rangers Halo,item,reqflag=Ranged,power=Magic Bullet,slot=head
+Isis,pass,health=666,damage=66,drop=Staff of Isis,text=Drink of my fountain mortal.
+Moses,pass,drop=Staff of Moses,health=555,damage=55
+Flying Spaghetti Monster,pass,damage=55,health=555,drop=Holy Meatball
+High Angel,agg,damage=11,health=111,drop=Holy Staff;Halo,text=The living are not welcome here.
+Angel,agg,damage=10,health=100,drop=Razor Halo,text=The living are not welcome here.
+Angel Clerk,pass,text=The messiahs here are all senile. Its impossible to take care of them.,damage=10,health=100,drop=Razor Halo
+Jesus,pass,damage=55,health=555,drop=Wine of Power;LSD
+Mohammad,pass,damage=55,health=555,drop=Sand of Power
+Fountain of Youth,none,heal=9999
+Cloud,pass,damage=0,health=10,drop=Cloud Juice
+Holy Shotgun,item,damage=60,power=Holy Shot,reqflag=Santa
+Cloud Spirit,agg,damage=15,health=500,drop=Cloud Juice
+Cloud Juice,item,heal=50
+Staff of Moses,item,power=Plague
+Halo,item,slot=head,addmana=99
+Staff of God,item,addattack=99,power=Godly Blast
+Holy Halo,item,slot=head,addmana=999,addattack=99
+Razor Halo,item,throw=25,addattack=10,slot=head
+Holy Meatball,item,power=Pasta Tentacles;Eat Pasta,heal=999
+Wine of Power,item,power=Drink Wine;Splash Wine
+Holy Staff,item,damage=40,power=Starry Blast
+Brain of God,item,addhealth=100,addmana=100,heal=9999
+Sand of Power,item,addhealth=55,power=Holy Sandstorm
+Staff of Isis,item,power=Prayer of Isis,damage=66,reqflag=Isis
+Dictatorship for Dummies (Deity Edition),item,text=Use lots of big words and carve them into stone things (gates tablets and doors are all good ideas!) Dont worry about contradicting yourself--in fact--make an effort to. Confuse your subjects as much as possible--then they wont notice your minor mistakes such as allowing evil or forgetting to cure their mother of cancer. Who has time for that kind of thing? Certainly not you--youre God!--youre important. Theyre not-- so who cares if a couple little pandemics break out? Theyll assume you have a plan. You can pretty much chill out as long as you scare them enough and make it clear that you work in mysterious ways. You dont even need to create excuses--they make their own. Happy ruling!
+Holy Coffee Table,none
+Holy Plate,item,addmana=5
+Holy Fork,item,power=Fork You
+
+#Zombie Land:
+Hazmat Officer,pass,text=This area is under quarantine. Get out.,health=150,damage=40,drop=Key Card;Pistol;Hazmat Hat
+Key Card,item
+Sealed Metal Gate,none,req=Key Card,loc=7;1
+Hazmat Hat,item,slot=head,addhealth=15
+Zombie Flesh,item,heal=1
+Hazmat Zombie,agg,damage=20,health=55,drop=Zombie Flesh;Hazmat Hat,text=(muffled)braaains...
+Zombie Cop,agg,damage=25,health=50,drop=Zombie Flesh;Pistol,text=You have the right to remain braaains!
+Zombie,agg,damage=15,health=50,drop=Zombie Flesh
+Corpulent Zombie,agg,damage=5,health=250,drop=Zombie Flesh;Zombie Flesh
+Necromancer,agg,health=250,damage=25,drop=Dark Star;Corpulent Zombie,text=How dare you mettle in my affairs!
+Dark Star,item,addhealth=50,power=Dark Shroud
+Amulet of Sekhemet,item,addmana=50,power=Plague
+
+#To Be Added:
+Killer Rabbit,agg,health=9999,damage=99

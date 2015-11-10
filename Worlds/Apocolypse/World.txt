@@ -1,0 +1,71 @@
+# Format: x,y,name,object,object,object,...
+
+# Spawn --------------------------------------------------------------------------------------------
+1,0,Rural House,TV,Canadian Bacon
+
+# Main Street ----------------------------------------------------------------------------------
+0,6,Main Street
+0,5,Main Street
+0,4,Main Street
+0,3,Main Street
+0,2,Main Street
+0,1,Main Street
+0,0,Main Street
+0,-1,Main Street
+0,-2,Main Street
+0,-3,Main Street
+0,-4,Main Street
+0,-5,Main Street
+0,-6,Main Street
+0,-7,Main Street
+
+# Herro Lane ----------------------------------------------------------------------------------
+-1,-5,Herro Lane
+-2,-5,Herro Lane
+-3,-5,Herro Lane
+-4,-5,Herro Lane
+-5,-5,Herro Lane
+
+# Mang Way ----------------------------------------------------------------------------------
+-1,6,Mang Way
+-2,6,Mang Way
+-3,6,Mang Way
+-4,6,Mang Way
+-5,6,Mang Way
+-6,6,Mang Way
+
+# Kimura Drive ----------------------------------------------------------------------------------
+1,3,Kimura Drive
+2,3,Kimura Drive
+3,3,Kimura Drive
+4,3,Kimura Drive
+5,3,Kimura Drive
+6,3,Kimura Drive
+7,3,Kimura Drive
+
+# Hard Hadron Road ----------------------------------------------------------------------------------
+-1,3,Hard Hadron Road
+-2,3,Hard Hadron Road
+-3,3,Hard Hadron Road
+-4,3,Hard Hadron Road
+-5,3,Hard Hadron Road
+-6,3,Hard Hadron Road
+
+# Zombieminal Way ----------------------------------------------------------------------------------
+7,2,Zombieminal Way
+7,1,Zombieminal Way
+7,0,Zombieminal Way
+7,-1,Zombieminal Way
+7,-2,Zombieminal Way
+7,-3,Zombieminal Way
+7,-4,Zombieminal Way
+
+# Train Street ----------------------------------------------------------------------------------
+-3,2,Train Street
+-3,1,Train Street
+-3,0,Train Street
+-3,-1,Train Street
+
+# Test Zone ----------------------------------------------------------------------------------------
+
+# Test Zone ----------------------------------------------------------------------------------------

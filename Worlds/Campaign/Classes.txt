@@ -1,0 +1,11 @@
+# Format: name,maxhealth,attack,mana,flag,flag,flag,...
+Dark Magus,105,5,25,Magician,Ranged,Unholy
+Elementalist,85,5,45,Magician,Ranged,Holy
+Warrior Priest,110,5,20,Magician,Heavy,Holy
+Warrior Demon,150,15,-10,Heavy,Ranged,Unholy
+Blood Demon,125,10,5,Heavy,Magician,Unholy
+Cleric of Isis,90,1,40,Magician,Isis,Holy
+Cleric of Osiris,100,1,35,Magician,Osiris,Unholy
+Santa Christ,120,10,10,Santa,Ranged,Holy
+Alchemist,100,5,30,Alchemy,Magician,Unholy
+Psychotic Theoretical Physicist,100,15,0,Freeman,Heavy,Holy

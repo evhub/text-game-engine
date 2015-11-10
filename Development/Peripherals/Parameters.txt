@@ -1,0 +1,28 @@
+& environment > 50
+% environment*2
+0,0,Jungle
+
+& environment > 25
+% 100/environment + environment
+0,0,Forest
+
+& environment > 15
+% 100 - environment
+0,0,Plains
+
+& environment > 0
+% 100/environment
+0,0,Desert
+
+& environment = 0
+% 100
+0,0,Desert
+
+& education > 1
+% education/2
+0,0,Grass
+1,0,School Courtyard
+2,0,Grass
+0,1,School Building
+1,1,School Building
+2,1,School Building

@@ -1,0 +1,28 @@
+# Format: name,type,attribute=value,attribute=value,attribute=value,...
+
+# Scenery ---------------------------------------------------------------------------------------------
+
+TV,none,heal=-100,text=Yo Mang Thar Be Zombies Outside!
+
+# Class Items -----------------------------------------------------------------------------------------
+
+Canadian-Star Shaped Circumcision Tool,item,reqflag=eh,damage=7,text=Circumcision Eh?
+Canadian Bacon,item,reqflag=eh,heal=12
+
+Complicated-Looking Gun,item,reqflag=tech,damage=9
+Complicated-Looking Ham,item,reqflag=tech,heal=20
+Pocket Protector,item,reqflag=tech,addhealth=10,slot=chest
+Slide Rule,item,reqflag=tech,damage=5
+
+# Zombies ----------------------------------------------------------------------------------------------
+
+Zombie,agg,damage=3,health=25,drop=Zombie Flesh,text=braaains...
+Zombie Flesh,item,heal=1
+
+Hazmat Zombie,agg,damage=3,health=36,drop=Zombie Flesh;Hazmat Hat,text=(muffled)braaains...
+Hazmat Hat,item,slot=head,addhealth=8
+
+Zombie Kid,agg,damage=1,health=5,drop=Zombie Flesh,text=bwaaains...
+
+Zombie Cop,agg,damage=6,health=30,drop=Zombie Flesh;Glock,text=You have the right to remain braaains!
+Glock,item,damage=5

@@ -1,0 +1,19 @@
+# Format: x,y,name,object,object,object,...
+0,0,Cramped Cabin
+0,1,Kitchen,Bread,Bread,Bread,Bread,Bread
+1,0,Hall
+1,1,Laundry Room
+1,-1,Staff Quarters,Mop
+2,0,Hall
+2,1,Bathroom,Toilet,Plunger
+2,-1,Captain's Office,Coat
+2,-2,Captain's Library,Elementbook
+3,-2,Captain's Quarters,Book of Isis
+3,0,Viewing Deck,Zombie
+3,1,Viewing Deck,Storm Amulet
+3,-1,Viewing Deck,Tyet Amulet,Djed Amulet
+0,-1,Closet,Boots
+-1,0,Hall,Draug,Box,Draug,Box,Draug
+-2,0,Control Room,z0m813 0v3rl0rd
+-2,1,Pantry,Overstocked Food,Severed Feet,Wine
+9001,9001,Dark Altar,Sacrificial Knife,Dark Portal

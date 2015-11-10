@@ -1,0 +1,5 @@
+# Format: name,maxhealth,attack,mana,flag,flag,flag,...
+Elementalist,1,0,0,elem
+Cleric of Isis,1,0,0,Isis
+Geist,10,6,0,nopickup
+Cleric of Osiris,1,0,0,Osiris
