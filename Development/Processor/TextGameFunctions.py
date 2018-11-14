@@ -16,7 +16,7 @@
 # DATA AREA: (IMPORTANT: DO NOT MODIFY THIS SECTION!)
 #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-from PythonPlus import *
+from rabbit.all import *
 from TextGameGlobals import *
 
 class player(object):

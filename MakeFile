@@ -1,0 +1,15 @@
+.PHONY: default
+default:
+	python "./Development/Processor/TextGameProcessor.py"
+
+.PHONY: apocalypse
+apocalypse:
+	cd ./Worlds/Apocalypse && python "../../Development/Processor/TextGameProcessor.py"
+
+.PHONY: campaign
+campaign:
+	cd ./Worlds/Campaign && python "../../Development/Processor/TextGameProcessor.py"
+
+.PHONY: test
+test:
+	cd ./Worlds/Test && python "../../Development/Processor/TextGameProcessor.py"

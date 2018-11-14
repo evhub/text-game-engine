@@ -16,7 +16,7 @@
 # DATA AREA: (IMPORTANT: DO NOT MODIFY THIS SECTION!)
 #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-from PythonPlus import *
+from rabbit.all import *
 
 class main(base):
     def __init__(self):

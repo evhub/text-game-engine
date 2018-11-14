@@ -16,6 +16,8 @@
 # DATA AREA: (IMPORTANT: DO NOT MODIFY THIS SECTION!)
 #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+import md5
+
 from TextGameFunctions import *
 
 def startconsole(root, handler=None, message=None, name="PythonPlus", height=None):
@@ -292,7 +294,7 @@ class main(base):
                         self.app.display("You Can't Throw A", itemname + ".")
                 else:
                     self.app.display("You Don't Have A", itemname + ".")
-                        
+
 
             elif fmove.startswith("unequip "):
                 itemname = ""

@@ -16,7 +16,7 @@
 # DATA AREA: (IMPORTANT: DO NOT MODIFY THIS SECTION!)
 #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-from PythonPlus import *
+from rabbit.all import *
 
 class main(base):
     def __init__(self):
@@ -109,7 +109,7 @@ class main(base):
                         else:
                             self.identifiers.append(self.app.new(self.defroom, newx, newy))
                     else:
-                        self.identifiers.append(self.app.new(self.defroom, newx, newy)) 
+                        self.identifiers.append(self.app.new(self.defroom, newx, newy))
 
     def up(self):
         self.move("north")

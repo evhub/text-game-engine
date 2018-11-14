@@ -16,7 +16,7 @@
 # DATA AREA: (IMPORTANT: DO NOT MODIFY THIS SECTION!)
 #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-from PythonPlus import *
+from rabbit.all import *
 import xml.etree.ElementTree as et
 
 class region(object):
